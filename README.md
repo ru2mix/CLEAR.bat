@@ -13,6 +13,11 @@ EXE >>>  v 5.2 Stable - [CLEAR.bat.exe](https://github.com/ru2mix/CLEAR.bat/blob
 
 [VirusTotal](https://www.virustotal.com/gui/file/941a061327404485ed25df160096bc327682a29e922392c2d10d61f527cb042c/detection)
 
+Скриншоты:
+
+![](https://github.com/ru2mix/CLEAR.bat/blob/main/IMG/img_scr/21.JPG?raw=true)
+![](https://github.com/ru2mix/CLEAR.bat/blob/main/IMG/img_scr/23_1.JPG?raw=true)
+![](https://github.com/ru2mix/CLEAR.bat/blob/main/IMG/img_scr/24.JPG?raw=true)
 ___________________________________________________________________________________________________________
 
 Святая корова! Что же она умеет? А вот что:
