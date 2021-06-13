@@ -11,6 +11,7 @@ BAT >>> v 2.20 Stable - [clear_v2.20.bat](https://github.com/ru2mix/CLEAR.bat/bl
 
 EXE >>>  v 5.2 Stable - [CLEAR.bat.exe](https://github.com/ru2mix/CLEAR.bat/blob/main/CLEAR.bat.exe) (Умеет все! Будет обновляться весит 3мб. Нужен .Net 4.5.2
 
+[VirusTotal](https://www.virustotal.com/gui/file/941a061327404485ed25df160096bc327682a29e922392c2d10d61f527cb042c/detection)
 
 ___________________________________________________________________________________________________________
 
@@ -34,7 +35,7 @@ ________________________________________________________________________________
 
 Программа в стадии активной разработки. 
 
-https://www.virustotal.com/gui/file/941a061327404485ed25df160096bc327682a29e922392c2d10d61f527cb042c/detection - VirusTotal
+
 
 Ваши предложения и улучшения жду в личку (Роберт Лато), в телегу ( https://t.me/rlato ) или в файлик: https://docs.google.com/spreadsheets/d/1vxJ6OYsSdb1AQHCuQamftnpz6fjmbKjnF_LBQWWz9N0/edit#gid=0
 
