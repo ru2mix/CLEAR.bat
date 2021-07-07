@@ -1,0 +1,2 @@
+start "" "%appdata%\iiko"
+exit

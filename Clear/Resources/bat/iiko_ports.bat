@@ -1,0 +1,36 @@
+@echo off
+netsh http add urlacl url=http://+:8105/ user=Все
+netsh http add urlacl url=http://+:8100/ user=Все
+netsh http add urlacl url=http://+:8080/ user=Все
+netsh http add urlacl url=https://+:443/ user=Все
+netsh http add urlacl url=http://+:8506/ user=Все
+netsh http add urlacl url=http://+:9100/ user=Все
+netsh http add urlacl url=http://+:9000/ user=Все
+netsh http add urlacl url=http://+:9001/ user=Все
+netsh http add urlacl url=http://+:9002/ user=Все
+netsh http add urlacl url=http://+:9003/ user=Все
+netsh http add urlacl url=http://+:9004/ user=Все
+netsh http add urlacl url=http://+:5060/ user=Все
+netsh http add urlacl url=http://+:8510/ user=Все
+netsh http add urlacl url=http://+:8000/ user=Все
+netsh http add urlacl url=http://+:8001/ user=Все
+netsh http add urlacl url=http://+:8002/ user=Все
+netsh http add urlacl url=http://+:9000/ user=Все
+netsh http add urlacl url=http://+:8105/ user=Everyone
+netsh http add urlacl url=http://+:8100/ user=Everyone
+netsh http add urlacl url=http://+:8080/ user=Everyone
+netsh http add urlacl url=https://+:443/ user=Everyone
+netsh http add urlacl url=http://+:8506/ user=Everyone
+netsh http add urlacl url=http://+:9100/ user=Everyone
+netsh http add urlacl url=http://+:9000/ user=Everyone
+netsh http add urlacl url=http://+:9001/ user=Everyone
+netsh http add urlacl url=http://+:9002/ user=Everyone
+netsh http add urlacl url=http://+:9003/ user=Everyone
+netsh http add urlacl url=http://+:9004/ user=Everyone
+netsh http add urlacl url=http://+:5060/ user=Everyone
+netsh http add urlacl url=http://+:8510/ user=Everyone
+netsh http add urlacl url=http://+:8000/ user=Everyone
+netsh http add urlacl url=http://+:8001/ user=Everyone
+netsh http add urlacl url=http://+:8002/ user=Everyone
+netsh http add urlacl url=http://+:9000/ user=Everyone
+exit
