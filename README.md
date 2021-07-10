@@ -15,7 +15,7 @@ EXE >>>  v 5.2 Stable - [CLEAR.bat.exe](https://github.com/ru2mix/CLEAR.bat/raw/
 
 Скриншоты:
 
-![](https://github.com/ru2mix/CLEAR.bat/blob/main/IMG/img_scr/21.JPG?raw=true)
+![](https://github.com/ru2mix/CLEAR.bat/raw/main/IMG/v3/Home.JPG)
 ![](https://github.com/ru2mix/CLEAR.bat/blob/main/IMG/img_scr/23_1.JPG?raw=true)
 ![](https://github.com/ru2mix/CLEAR.bat/blob/main/IMG/img_scr/24.JPG?raw=true)
 ___________________________________________________________________________________________________________
