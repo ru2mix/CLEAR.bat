@@ -9,7 +9,7 @@ https://github.com/ru2mix/CLEAR.bat/wiki
 
 BAT >>> v 2.20 Stable - [clear_v2.20.bat](https://github.com/ru2mix/CLEAR.bat/blob/main/clear_v2.20.bat) (Не умеет скачивать плагины, только очистка, последняя стабильная версия в bat формате, для любителей мелких файлов всего 16кб)
 
-EXE >>>  v 5.2 Stable - [CLEAR.bat.exe](https://github.com/ru2mix/CLEAR.bat/raw/main/CLEAR.bat.exe) (Умеет все! Будет обновляться весит 3мб. Нужен .Net 4.5.2
+EXE >>>  v 5.3 Stable - [CLEAR.bat.exe](https://github.com/ru2mix/CLEAR.bat/raw/main/CLEAR.bat.exe) (Умеет все! Будет обновляться весит 3мб. Нужен .Net 4.5.2
 
 [VirusTotal](https://www.virustotal.com/gui/file/941a061327404485ed25df160096bc327682a29e922392c2d10d61f527cb042c/detection)
 
