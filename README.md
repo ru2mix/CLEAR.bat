@@ -139,3 +139,6 @@ UPD 530 Bugfix
 UPD 530 Bugfix v2
 
 - Исправил удаление всех плагинов при установке iikoWaiter
+
+UPD 531 
+- Добавил скачивание iikoCard5POS в Другое
