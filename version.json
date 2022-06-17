@@ -1,5 +1,5 @@
 {
-"version":"6.1.1.10",
+"version":"6.1.1.11",
 "discription":"Added API manager (beta)\r Fixed critical bug in manager",
 "status":"Stable",
 "forceversion":"6.0.3.5",
