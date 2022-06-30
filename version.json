@@ -1,6 +1,6 @@
 {
-"version":"6.1.1.12",
-"discription":"Added API manager (beta)\r Fixed critical bug in manager",
+"version":"6.1.1.13",
+"discription":"Bugfixes in Server Manager",
 "status":"Stable",
 "forceversion":"6.0.3.5",
 "force":"false"
