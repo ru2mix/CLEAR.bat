@@ -1,6 +1,6 @@
 {
-"version":"6.1.1.13",
-"discription":"Bugfixes in Server Manager",
+"version":"6.1.1.14",
+"discription":"Bugfixes in quick start",
 "status":"Stable",
 "forceversion":"6.0.3.5",
 "force":"false"
